@@ -1,4 +1,4 @@
-# App name - Aidiction
+# App name - aidiction
 
 A flutter chatboot project made using bard api.
 
