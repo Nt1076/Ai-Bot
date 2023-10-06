@@ -1,16 +1,7 @@
-# ai_diction
+# App name - Aidiction
 
-A new Flutter project.
+A flutter chatboot project made using bard api.
 
-## Getting Started
+# Output
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Add a subheading (4)](https://github.com/Nt1076/Ai-Bot/assets/96333085/570d2157-f6b4-41f9-9c5d-976635621dba)
